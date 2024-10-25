@@ -9,7 +9,7 @@ An Early Career Professional with a strong focus on Computer Science and Human-C
 - 🔭 I’m currently working as an Architect on the HR IT Security Team
 - ⚡  Working at Ford Motor Company
 - 🌱 Currently learning CyberSecurity Concepts
-- 👯 Seek to collaborate on accessability and equity projects
+- 👯 Seek to collaborate on accessibility and equity projects
 - 👩🏻‍💻 Founder of Future ITGirls
 
 <hr />
@@ -17,15 +17,13 @@ An Early Career Professional with a strong focus on Computer Science and Human-C
 ### 💬 Ping me about development, design thinking, strategic partnerships, tech policy
 
 ### Top Skills: 
-[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
-[![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=fff)](#)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
+[![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=fff)](https://www.oracle.com/human-capital-management/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](https://www.mysql.com/)
 
-[![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)](#)
-[![Miro](https://img.shields.io/badge/Miro-050038?logo=miro&logoColor=fff)](#)
-[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)](#)
-
-<!-- TODO: Add links to skills -->
+[![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)](https://jira.com/)
+[![Miro](https://img.shields.io/badge/Miro-050038?logo=miro&logoColor=fff)](https://miro.com/)
+[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)](https://www.canva.com/)
 
 |F|a|v|o|r|i|t|e|s|💻|
 | - | - | - | - | - | - | - | - | - | - |
