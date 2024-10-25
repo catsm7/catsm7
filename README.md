@@ -1,7 +1,11 @@
-
+<!-- Heading -->
 
 ### Catalina Here 👋 
 > /'kah.tah.LEE.nah/
+
+<!-- Heading: END -->
+
+<!-- About section -->
 
 An Early Career Professional with a strong focus on Computer Science and Human-Computer Interaction aka Holistic Devsigner. My expertise spans technology policy, user research, CS outreach, program management, and software development. I am dedicated to fostering innovation and significant change through accessible structural solutions.
 
@@ -9,12 +13,16 @@ An Early Career Professional with a strong focus on Computer Science and Human-C
 - 🔭 I’m currently working as an Architect on the HR IT Security Team
 - ⚡  Working at Ford Motor Company
 - 🌱 Currently learning CyberSecurity Concepts
-- 👯 Seek to collaborate on accessibility and equity projects
+- 👯 Seeking to collaborate on accessibility and equity projects
 - 👩🏻‍💻 Founder of Future ITGirls
+
+<!-- About section: END -->
 
 <hr />
 
 ### 💬 Ping me about development, design thinking, strategic partnerships, tech policy
+
+<!-- Skills section -->
 
 ### Top Skills: 
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
@@ -24,6 +32,10 @@ An Early Career Professional with a strong focus on Computer Science and Human-C
 [![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)](https://jira.com/)
 [![Miro](https://img.shields.io/badge/Miro-050038?logo=miro&logoColor=fff)](https://miro.com/)
 [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)](https://www.canva.com/)
+
+<!-- Skills section: END -->
+
+<!-- Crossword section -->
 
 |F|a|v|o|r|i|t|e|s|💻|
 | - | - | - | - | - | - | - | - | - | - |
@@ -38,11 +50,22 @@ An Early Career Professional with a strong focus on Computer Science and Human-C
 |  | `C` |  |  | `N` |  | `L` |  |  | `V` | 
 |  | `E` |  |  |  | `G` | `E` | `M` | `B` | `A` | 
 
+<!-- Crossword section: END -->
+
+<!-- Connect section -->
+
 ### 📫 Reach me at 
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/catalina-sm/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:catsm7@yahoo.com)
 <hr />
 
+ <!-- Connect section: END -->
+
+ <!-- GitHub / Profile Views section -->
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catsm7&layout=compact&theme=dark&hide_border=true) <img src="https://komarev.com/ghpvc/?username=catsm7&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+
+<!-- GitHub / Profile Views section: END -->
 
 ###### 💾 EOF
 
@@ -64,7 +87,6 @@ An Early Career Professional with a strong focus on Computer Science and Human-C
 - 🤔 I’m looking for help with x to y for z
 - 🛠 Contributing to [ Org1 ](https://) & [ Org2 ](https://)
 - 🔥 Working with the local __ Chapter of NatlOrg[ Org1 ](https://)
-[![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#)
 
 ### LinkedIn Specialized Name Iconography
 [![LinkedIn: Catalina](https://img.shields.io/badge/-Catalina-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://)](https://)
