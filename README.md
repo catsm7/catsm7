@@ -63,7 +63,13 @@ An Early Career Professional with a strong focus on Computer Science and Human-C
 
  <!-- GitHub / Profile Views section -->
 
+<details>
+<summary>Stats</summary>
+<br/>
+ 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catsm7&layout=compact&theme=dark&hide_border=true) <img src="https://komarev.com/ghpvc/?username=catsm7&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+
+</details>
 
 <!-- GitHub / Profile Views section: END -->
 
