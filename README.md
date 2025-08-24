@@ -10,7 +10,7 @@
 An Early Career Professional with a strong focus on Computer Science and Human-Computer Interaction aka Holistic Devsigner. My expertise spans technology policy, user research, CS outreach, program management, and software development. I am dedicated to fostering innovation and significant change through accessible structural solutions.
 
 
-- 🔭 I’m currently working as an Architect on the HR IT Security Team
+- 🔭 I’m currently working as an Enterprise Architect on the Architecture Management Process and Governance Team
 - ⚡  Working at Ford Motor Company
 - 🌱 Currently learning CyberSecurity Concepts
 - 👯 Seeking to collaborate on accessibility and equity projects
