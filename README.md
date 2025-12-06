@@ -40,7 +40,7 @@ An Early Career Professional with a strong focus on Computer Science and Human-C
 |F|a|v|o|r|i|t|e|s|💻|
 | - | - | - | - | - | - | - | - | - | - |
 | `A` | `C` | `C` | `E` | `S` | `S` |  |  |  |  | 
-|  | `O` |  |  |  |  |  |  | [🌐](https://www.linkedin.com/in/catalina-sm/) |  | 
+|  | `O` |  |  |  |  |  |  | [🌐](https://www.linkedin.com/in/catsm7/) |  | 
 |  | `M` |  |  |  |  |  |  |  |  | 
 |  | `P` |  | `S` | `D` | `L` | `C` |  |  |  |
 |  | `L` |  |  | `E` |  |  |  |  |  | 
@@ -55,7 +55,7 @@ An Early Career Professional with a strong focus on Computer Science and Human-C
 <!-- Connect section -->
 
 ### 📫 Reach me at 
-[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/catalina-sm/)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/catsm7/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:catsm7@yahoo.com)
 <hr />
 
@@ -67,7 +67,9 @@ An Early Career Professional with a strong focus on Computer Science and Human-C
 <summary>Stats</summary>
 <br/>
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catsm7&layout=compact&theme=dark&hide_border=true) <img src="https://komarev.com/ghpvc/?username=catsm7&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+### ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catsm7&layout=compact&theme=dark&hide_border=true) <img src="https://komarev.com/ghpvc/?username=catsm7&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+
+### vercel deployment paused as spending was maxxed.
 
 </details>
 
